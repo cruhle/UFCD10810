@@ -35,7 +35,6 @@ Cria uma lista nova com cada nota mais 1 valor.
 # Escreve duas [funções](https://github.com/cruhle/UFCD10810/blob/main/VII_funcoes.py) #  
 converter_celsius(c), que devolve a temperatura em Fahrenheit (c × 9 / 5 + 32).  
 Testa-a com 0 e com 100.  
-e_positiva(nota), que devolve True se a nota for 10 ou mais.  
   
 # Cria esta tabela de produtos #  
 p = pd.DataFrame(
